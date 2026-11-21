@@ -23,3 +23,4 @@ Final Midterm Submission
 This repository contains my JavaScript source codes, lecture examples, laboratory exercises, and hands-on activities developed during the midterm period.
 
 Submision Status: Final midterm source files uploaded to GitHubs
+# midterm_sourcefile_repo
