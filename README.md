@@ -1,4 +1,3 @@
-Midterm Source Files Repository
 
 About
 
@@ -6,8 +5,8 @@ This repository contains my JavaScript source codes, lecture examples, laborator
 
 Student Information
 
-- Name: Cayabyab, Zeyad Mohamamd A.
-- Course:BSIT DA 2-1
+- Name: Cayabyab, Zeyad Mohammad A.
+- Course: BSIT DA 2-1
 - Subject: Data Structures and Algorithms
 
 Repository Contents
@@ -15,8 +14,12 @@ Repository Contents
 - Lesson 1 – JavaScript Examples
 - Lesson 2 – Student Grade Analyzer
 - Lesson 3 – Student Score Array Analyzer
-- Other Midterm Activities
 
-Purpose
 
-The purpose of this repository is to organize, manage, and store my JavaScript source codes using Git and GitHub.
+This is my feature-demo branch modification
+
+Final Midterm Submission
+
+This repository contains my JavaScript source codes, lecture examples, laboratory exercises, and hands-on activities developed during the midterm period.
+
+Submision Status: Final midterm source files uploaded to GitHubs
