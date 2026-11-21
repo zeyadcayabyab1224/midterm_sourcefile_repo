@@ -24,3 +24,5 @@ This repository contains my JavaScript source codes, lecture examples, laborator
 
 Submision Status: Final midterm source files uploaded to GitHubs
 # midterm_sourcefile_repo
+
+Final commit for Midterm Source File Demo
